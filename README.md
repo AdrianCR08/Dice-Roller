@@ -18,7 +18,7 @@ This project was created as part of the [Android Basics with Compose](https://de
 
 ## Screenshots 🖼️
 
-![Dice_Roller](assets/img.png)
+<img src="assets/img.png" alt="Dice Roller" width="300"/>
 
 ## How to Run ▶️
 
